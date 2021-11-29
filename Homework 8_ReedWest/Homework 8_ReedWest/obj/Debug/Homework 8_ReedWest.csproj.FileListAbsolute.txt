@@ -1,0 +1,79 @@
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\Homework 8_ReedWest.dll.config
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\Homework 8_ReedWest.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\Homework 8_ReedWest.pdb
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\csc.exe
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\csc.exe.config
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\csc.rsp
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\csi.exe
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\csi.exe.config
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\csi.rsp
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.AppContext.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.Console.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.IO.Compression.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.Net.Http.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.ValueTuple.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\vbc.exe
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\vbc.exe.config
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\vbc.rsp
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\VBCSCompiler.exe
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\Antlr3.Runtime.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\Newtonsoft.Json.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\System.Web.Helpers.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\System.Web.Mvc.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\System.Web.Optimization.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\System.Web.Razor.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\System.Web.WebPages.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\System.Web.WebPages.Razor.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\WebGrease.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\System.Web.Helpers.xml
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\System.Web.Mvc.xml
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\System.Web.Optimization.xml
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\System.Web.Razor.xml
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\System.Web.WebPages.xml
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\System.Web.WebPages.Razor.xml
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\Newtonsoft.Json.xml
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\Antlr3.Runtime.pdb
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\obj\Debug\Homework 8_ReedWest.csproj.AssemblyReference.cache
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\obj\Debug\Homework 8_ReedWest.csproj.CoreCompileInputs.cache
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\obj\Debug\Homework 8_ReedWest.csproj.CopyComplete
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\obj\Debug\Homework 8_ReedWest.dll
+C:\Users\Reed\Desktop\HW8\Homework 8_ReedWest\Homework 8_ReedWest\obj\Debug\Homework 8_ReedWest.pdb
